@@ -11,6 +11,7 @@ All notable changes to Yellowfall are documented here.
 - **Now Card Visual Style**: Now cards display with distinct cyan border and "NOW" label
 
 ### Changed
+- **Redo Card**: Now executes the previous card twice (was once)
 - Battle logs now show unit names instead of generic "#1", "#2"
 
 ---
